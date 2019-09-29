@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    color: #111111;
+    background-color: #e9e9e9;
+    font-size: 14px;
+    margin: 70px;
+}
+
+h1 {
+    color: #ffffff;
+    padding-left: 25px;
+    height: 600px;
+    background-repeat: no-repeat;
+    font-size: 4em;
+    font-family: 'Notable', sans-serif; 
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5c60e353a9ab952b4e0e6bd1/1551148858328-MC545YL425LSTBXU44UL/ke17ZwdGBToddI8pDm48kMtiXMEMZ8ID8MVhA-T_Qc9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIfy9uRsqnknGrsPwiW8VdnsJxMq6FvgYbxptNsO-6IOIKMshLAGzx4R3EDFOm1kBS/ABOUT.jpg?format=750w');
+}
+
