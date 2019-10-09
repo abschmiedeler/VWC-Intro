@@ -1,7 +1,6 @@
 body {
     font-family: 'Roboto Slab', serif;
     color: #111111;
-    background-color: #b048e8;
     font-size: 14px;
     margin: 70px;
 }
@@ -19,4 +18,5 @@ h1 {
 .page {
     width: 900px;
     margin: 0 auto;
+    background-color: #fafcfc;
 }
