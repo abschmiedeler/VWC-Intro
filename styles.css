@@ -3,6 +3,7 @@ body {
     color: #111111;
     font-size: 14px;
     margin: 70px;
+    background-color: #fafcfc;
 }
 
 h1 {
@@ -18,5 +19,4 @@ h1 {
 .page {
     width: 900px;
     margin: 0 auto;
-    color: #fafcfc;
 }
